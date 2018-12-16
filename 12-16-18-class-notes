@@ -1,0 +1,67 @@
+12-16-18 class notes
+
+Array
+ArrayList, LinkedList:  Linear data structure
+Map, HashMap….
+212- 546-7689
+
+212——>
+ 
+254
+546
+
+Tree: non linear Data structure
+
+Graph: non linear Data structure
+
+Swap:
+
+Sorting:
+
+Selection Sort
+Insertion Sort
+Bubble Sort
+Merge Sort
+Heap Sort
+Bucket Sort
+Quick Sort
+
+
+Selection Sort:   9, 7, 8, 6, 4, 1, 5
+
+9, 7, 8, 6, 4, 1, 5
+1  7  8  6.  4  9  5
+1  4. 8. 6.  7.  9. 5
+1  4  5  6.  7.  9. 8
+1. 4. 5. 6.  7.  9.  8
+1. 4  5  6.  7   9.  8
+1. 4. 5  6.  7.  8.  9
+1. 4. 5. 6.  7.  8.  9
+
+
+Insertion Sort:   9, 7, 8, 6, 4, 1, 5
+
+ 9, 7, 8, 6, 4, 1, 5
+ 7. 9. 8. 6  4. 1. 5
+ 7  8  9  6. 4. 1. 5
+ 6. 7. 8  9. 4. 1. 5
+4.  6  7. 8. 9. 1. 5
+1. 4.  6  7  8. 9  5
+1. 4.  5. 6. 7. 8. 9
+
+Bubble Sort:   9, 7, 8, 6, 4, 1, 5.   O(nXn)
+
+9, 7, 8, 6, 4, 1, 5
+7   8. 6. 4. 1. 5. 9
+7.  6. 4. 1. 5. 8. 9
+6.  4. 1. 5. 7. 8. 9
+4 1  5   6  7  8   9
+1  4   5   6   7   8  9
+
+
+Merge Sort: 9, 7, 8, 6, 4, 1, 5
+
+9, 7, 8, 6, 4, 1, 5
+
+
+
